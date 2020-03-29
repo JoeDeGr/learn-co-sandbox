@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-
+Hello World!
 =======
 >>>>>>> 68896d4653159b962e5bf4d7c6d70bdcc3119626
 # MarketScraper
