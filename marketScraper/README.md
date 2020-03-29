@@ -1,5 +1,7 @@
-Hello World 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 68896d4653159b962e5bf4d7c6d70bdcc3119626
 # MarketScraper
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/marketScraper`. To experiment with that code, run `bin/console` for an interactive prompt.
